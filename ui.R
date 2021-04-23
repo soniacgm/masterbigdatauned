@@ -1,8 +1,8 @@
 
 # Módulo visualización avanzada
 
-#library(shiny)
-#library(ggplot2)
+library(shiny)
+library(ggplot2)
 
 # Cargamos los datos desde el repositorio github del módulox 
 
