@@ -3,7 +3,7 @@ library(ggplot2)
 
 # Cargamos los datos desde el repositorio github del módulo 
 
-con <- url("https://github.com/soniacgm/masterbigdatauned/blob/eae7776570fa78236b64e5e8fd8c40da1f23a80d/datos/D_Covid.Rda?raw=true")
+con <- url("https://github.com/soniacgm/masterbigdatauned/blob/main/datos/D_Covid.Rda?raw=true")
 
 load(con)
 dataset <- D_Covid
