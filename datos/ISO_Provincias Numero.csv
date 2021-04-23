@@ -1,0 +1,51 @@
+Provincia;ISO;num_provincia
+Alicante;A;03
+Albacete;AB;02
+Almería;AL;04
+Ávila;AV;05
+Barcelona;B;08
+Badajoz;BA;06
+Vizcaya;BI;48
+Burgos;BU;09
+La Coruña;C;15
+Cádiz;CA;10
+Cáceres;CC;11
+Córdoba;CO;14
+Ciudad Real;CR;13
+Castellón;CS;12
+Cuenca;CU;16
+Las Palmas;GC;35
+Girona;GI;17
+Granada;GR;18
+Guadalajara;GU;19
+Huelva;H;21
+Huesca;HU;22
+Jaén;J;23
+Lleida;L;25
+León;LE;24
+La Rioja;LO;26
+Lugo;LU;27
+Madrid;M;28
+Málaga;MA;29
+Murcia;MU;30
+Navarra;NA;31
+Asturias;O;33
+Orense;OR;32
+Palencia;P;34
+Baleares;PM;07
+Pontevedra;PO;36
+Cantabria;S;39
+Salamanca;SA;37
+Sevilla;SE;41
+Segovia;SG;40
+Soria;SO;42
+Guipúzcoa;SS;20
+Tarragona;T;43
+Teruel;TE;44
+Santa Cruz de Tenerife;TF;38
+Toledo;TO;45
+Valencia;V;46
+Valladolid;VA;47
+Alava;VI;01
+Zaragoza;Z;50
+Zamora;ZA;49
